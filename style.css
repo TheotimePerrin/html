@@ -1,0 +1,34 @@
+img {
+  width: 200px;
+  border-radius: 90px;
+}
+
+ .l1,.lehaut,.l2, .l3{
+	display: flex;
+	gap: 0%;
+	justify-content: center;
+}
+
+.lehaut {
+	text-align : center;
+}
+
+
+body {
+  background: linear-gradient(to bottom right, white, #eab0e2);
+}
+
+
+h2 {
+	color: white;
+	background-color: grey;
+}
+
+
+ .divers, .experiences, .contact, .formation, .contact, .atout, .competences {
+	width: 300px;          
+    	height: 330px;
+    	padding: 10px;
+	background-color: white;
+}
+
